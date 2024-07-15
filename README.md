@@ -1,4 +1,4 @@
-// Greedy Algorithms li Part-
+// Greedy Algorithms
 
 #include<iostream>
 
